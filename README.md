@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on: my final year projects and learning advanced algorithms.<br><br>🤝 I'm looking to collaborate on: software development projects and research related to AI or machine learning.<br><br>🤲 I'm looking for help with: improving my coding skills in Java and Python.<br><br>🌱 I'm currently learning: data structures, machine learning, and cloud computing.<br><br>💬 Ask me about: programming, university life, or tech trends.<br><br>⚡ Fun fact: I enjoy solving competitive programming challenges in my free time.
+👨‍💻 I'm currently working on: learning advanced algorithms.<br><br>🤝 I'm looking to collaborate on: software development projects and research related to AI or machine learning.<br><br>🤲 I'm looking for help with: improving my coding skills in Java and Python.<br><br>🌱 I'm currently learning: data structures, machine learning, and Algorithms .<br><br>💬 Ask me about: programming, university life, or tech trends.<br><br>⚡ Fun fact: I enjoy solving competitive programming challenges in my free time.
 
 
 ## 🌐 Socials:
